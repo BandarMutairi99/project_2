@@ -21,6 +21,12 @@ Upload the Model Files:
 
 Upload keras_model.h5 and labels.txt to your Colab environment or project directory.
 
+
+
+
+
+
+
 # Output
 
 <img width="427" alt="Image" src="https://github.com/user-attachments/assets/8a734f3b-4537-4070-87d9-9f6d46e7426b" />
