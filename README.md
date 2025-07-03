@@ -13,6 +13,7 @@ Predict the emotion (Happy or Sad).
 
 # Tools & Technologies
 Teachable Machine by Google
+
 Google Colab
 
 # How to Use
